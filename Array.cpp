@@ -7,6 +7,7 @@ int main(){
 	int minimal = 101;
 	int maximal = -1;
 	
+	
 	for (int i=0; i<10; i++){
 		if (minimal > arr[i]){
 			minimal = arr[i];
